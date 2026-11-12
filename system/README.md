@@ -16,8 +16,8 @@ updated: 2026-11-12
 ## 地图
 
 1. [市场](01-market.md)：谁足够饿、有支付能力、并且能被稳定触达
-2. [要约（Offers）](02-offers.md)：把要约做成足够好的 Grand Slam Offer，核心是价值公式
-3. [获客（Leads）](03-leads.md)：用 Core Four 把线索带来，用量和技能一起抓
+2. [要约（Offers）](02-offers.md)：把要约做成足够好的全垒打要约（Grand Slam Offer），核心是价值公式
+3. [获客（Leads）](03-leads.md)：用核心四法（Core Four）把线索带来，用量和技能一起抓
 4. [赚钱模型（Money Models）](04-money-models.md)：设计现金流，让终身利润远高于获客成本
 5. [交付](05-delivery.md)：结果必须兑现，否则模型会塌
 6. [底层原则](06-principles.md)：价格、行动、检验标准等贯穿各段的方法
@@ -28,8 +28,8 @@ updated: 2026-11-12
 
 | 概念 | 较早公开出现（待核对则标明） | 出处 | 变化或备注 |
 | --- | --- | --- | --- |
-| Grand Slam Offer / 价值公式 | 待核对 | 公开讨论中常指向《$100M Offers》 | 出版信息见 [sources/books.md](../sources/books.md) |
-| Core Four | 待核对 | 公开讨论中常指向《$100M Leads》 | |
+| 全垒打要约（Grand Slam Offer）/ 价值公式 | 待核对 | 公开讨论中常指向《$100M Offers》 | 出版信息见 [sources/books.md](../sources/books.md) |
+| 核心四法（Core Four） | 待核对 | 公开讨论中常指向《$100M Leads》 | |
 | 赚钱模型（前端回本、后端终身利润） | 待核对 | 公开讨论中常指向《$100M Money Models》 | |
 | 市场：饿、有支付能力、可触达 | 待核对 | 公开访谈与书评中常见转述 | 尚待对到具体公开出处 |
 
