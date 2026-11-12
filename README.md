@@ -1,2 +1,42 @@
 # alexhormozi-library
-Unofficial study archive and thought map of Alex Hormozi's publicly available ideas. Not affiliated with or authorized by Alex Hormozi or Acquisition.com.
+
+非官方学习档案与思想地图：整理 [Alex Hormozi](https://www.acquisition.com/) 已公开的商业思想，便于学习、核对和持续完善。
+
+**本仓库与 Alex Hormozi、Acquisition.com 及其关联机构无关，亦未获其授权或背书。**
+
+本库是学习档案和思想地图，**不是**「Hormozi 语录全集」或著作全文汇编。若要把他的原话编成一部以摘录为主的作品，需要本人许可。
+
+## 这里有什么
+
+| 目录 | 放什么 |
+| --- | --- |
+| [`system/`](system/) | 正在完善的思想体系。每篇分为「短引与出处」和「我们的整理」两层；总览记录概念出现的时间。 |
+| [`notes/`](notes/) | 第一手学习笔记，按日期命名。 |
+| [`sources/`](sources/) | 公开材料的链接与元数据，不放原文。 |
+| [`inbox/`](inbox/) | 尚未归类或出处未核清的材料，整理后移出。 |
+
+更完整的规则见 [`RULES.md`](RULES.md)。
+
+## 来源标记
+
+每篇注明来源类型：
+
+- `user`：贡献者的第一手笔记或转述
+- `public`：可核对的公开出处（尽量带书名、视频、链接和日期）
+- `synthesis`：我们的归纳，不冒充原文
+
+出处不清的先放 `inbox/`，不进 `system/`。
+
+## 收录范围
+
+**收：** 框架整理、学习笔记、公开链接和元数据，以及讨论所需、已标注出处的极短引用。
+
+**不收：** 书的正文或电子书文件、付费课和私密社群内容、未授权的全文逐字稿或音视频转载、盗版链接，以及任何看起来像官方或已获授权的表述。
+
+LICENSE 只授权我们自己写的部分；Hormozi 和出版社的权利仍归他们。
+
+## 如何使用
+
+1. 从 [`system/README.md`](system/README.md) 看思想地图和概念时间。
+2. 需要对原文时，顺着 `public` 标记和 [`sources/`](sources/) 里的链接回到公开出处。
+3. 新材料先进入 `inbox/`，核对来源后再归入 `notes/`、`sources/` 或 `system/`。
