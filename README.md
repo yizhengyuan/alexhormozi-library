@@ -6,6 +6,12 @@
 
 本库是学习档案和思想地图，**不是**「Hormozi 语录全集」或著作全文汇编。若要把他的原话编成一部以摘录为主的作品，需要本人许可。
 
+## 展示页
+
+用图形和分层结构阅读本库：[https://yizhengyuan.github.io/alexhormozi-library/](https://yizhengyuan.github.io/alexhormozi-library/)
+
+展示页（[`index.html`](index.html)、[`site/`](site/)）会直接读取本仓库的 Markdown，正文仍以这些文件为准。若该地址尚未打开，在 [GitHub Pages 设置](https://github.com/yizhengyuan/alexhormozi-library/settings/pages) 里把 Source 设为 Deploy from a branch，分支 `main`，文件夹 `/ (root)` 即可。
+
 ## 这里有什么
 
 | 目录 | 放什么 |
@@ -41,6 +47,6 @@ LICENSE 只授权我们自己写的部分；Hormozi 和出版社的权利仍归�
 
 ## 如何使用
 
-1. 从 [`system/README.md`](system/README.md) 看思想地图和概念时间。
+1. 打开 [展示页](https://yizhengyuan.github.io/alexhormozi-library/) 看思想地图，或从 [`system/README.md`](system/README.md) 直接读 Markdown。
 2. 需要对原文时，顺着 `public` 标记和 [`sources/`](sources/) 里的链接回到公开出处。
 3. 新材料先进入 `inbox/`，核对来源后再归入 `notes/`、`sources/` 或 `system/`。

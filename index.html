@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>alexhormozi-library · 非官方学习档案</title>
+  <meta name="description" content="非官方学习档案与思想地图：整理 Alex Hormozi 已公开的商业思想。本站与 Alex Hormozi、Acquisition.com 及其关联机构无关，亦未获其授权或背书。不是语录全集。">
+  <meta name="robots" content="index,follow">
+  <meta property="og:title" content="alexhormozi-library · 非官方学习档案">
+  <meta property="og:description" content="整理 Alex Hormozi 已公开的商业思想。与本人及 Acquisition.com 无关，未获授权或背书。不是语录全集。">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="zh_CN">
+  <link rel="icon" href="site/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="site/styles.css">
+  <script>
+    (function () {
+      var p = location.pathname;
+      if (!p.endsWith("/") && !p.endsWith(".html") && !p.split("/").pop().includes(".")) {
+        location.replace(p + "/" + location.search + location.hash);
+      }
+    })();
+  </script>
+</head>
+<body>
+  <a class="skip" href="#main">跳到正文</a>
+  <header class="top">
+    <div class="top-inner">
+      <a class="brand" href="#/" aria-label="回到思想地图">
+        <img src="site/favicon.svg" width="28" height="28" alt="">
+        <span>
+          <strong>alexhormozi-library</strong>
+          <em>非官方学习档案</em>
+        </span>
+      </a>
+      <nav class="nav" aria-label="主要栏目">
+        <a href="#/" data-nav="map">思想地图</a>
+        <a href="#/sources" data-nav="sources">公开材料</a>
+        <a href="#/rules" data-nav="rules">收录规则</a>
+        <a class="ext" href="https://github.com/yizhengyuan/alexhormozi-library" rel="noopener noreferrer" target="_blank">GitHub</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="disclaimer" role="note">
+    <p>本站与 Alex Hormozi、Acquisition.com 及其关联机构无关，亦未获其授权或背书。这是学习档案和思想地图，<strong>不是</strong>语录全集或著作全文。短引与整理分层展示，正文以仓库里的文稿为准。</p>
+  </div>
+
+  <main id="main">
+    <p class="loading" id="loading">正在从仓库载入正文…</p>
+    <p class="error" id="error" hidden></p>
+    <div id="app" hidden></div>
+  </main>
+
+  <footer class="foot">
+    <p>正文来自 <a href="https://github.com/yizhengyuan/alexhormozi-library" rel="noopener noreferrer" target="_blank">yizhengyuan/alexhormozi-library</a>，随仓库更新。许可只覆盖本项目作者撰写的笔记与整理，见 <a href="https://github.com/yizhengyuan/alexhormozi-library/blob/main/LICENSE" rel="noopener noreferrer" target="_blank">LICENSE</a>；Hormozi 和出版社的权利仍归他们。</p>
+  </footer>
+  <script src="site/app.js" defer></script>
+</body>
+</html>
