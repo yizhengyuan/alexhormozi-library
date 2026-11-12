@@ -1,17 +1,5 @@
 # 播客
 
-文首可写简要说明。每条只记元数据与链接，不贴原文。推荐字段：
-
-- 标题
-- 日期（待核对则标明）
-- 平台或出版方
-- URL
-- 主题（可指向 `system/` 中的篇目）
-- 备注
-
-只收录可公开访问、不违反 [RULES.md](../RULES.md) 的材料。
-
-
 | 标题 | 日期 | 出版方或平台 | URL | 主题 | 备注 |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
+| The Game w/ Alex Hormozi（《这场游戏》，暂译） | 持续更新 | Acquisition.com；Apple Podcasts | [官方播客页](https://www.acquisition.com/podcast)；[Apple Podcasts](https://podcasts.apple.com/us/podcast/the-game-with-alex-hormozi/id1254720112) | 获客、单客利润、留存，以及过程中的失败与教训 | 官方介绍：how to get more customers, make more profit per customer, and keep them longer。由 Alex Hormozi 主持。两条链接查阅于 2026-11-12，均可访问。单集按条追加。 |
